@@ -39,3 +39,4 @@ if i > 0:
     print("el promedio de compra es: ", promedio)
 else:
     print("no se realizaron compras")
+    print("no se realizaron compras")# forzar actualización
